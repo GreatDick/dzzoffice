@@ -332,7 +332,7 @@ if ($_GET['step'] == 'start') {
             'available' => 1,
             'type' => 'app',
             'name' => '回收站自动删除任务',
-            'filename' => 'cron_explorer_recycle.php',
+            'filename' => 'dzz:explorer:cron_explorer_recycle.php',
             'lastrun' => 1755741850,
             'nextrun' => 1755745200,
             'weekday' => -1,
